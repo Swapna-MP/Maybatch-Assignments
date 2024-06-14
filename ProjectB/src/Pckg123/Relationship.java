@@ -9,6 +9,9 @@ public class Relationship {
 		obj.method1();
 		
 		
+		
+		
+		
 	}
 
 }

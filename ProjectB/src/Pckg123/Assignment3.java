@@ -24,6 +24,7 @@ public class Assignment3 {
 		//solve the below expression (((((x1*x2)+x3)-x4)-x5)/x6)
 		
 		Maths2 Arthematic = new Maths2 ();
+				
 		
 		int mulresult = Arthematic.mul(x1, x2);
 		int sumresult = Arthematic.sum(mulresult,x3);
@@ -31,6 +32,8 @@ public class Assignment3 {
 		int sub2result = Arthematic.sub2(subresult,x5);
 		Arthematic.div(sub2result,x6);
 		
+		
+
 		
 				
 	}

@@ -15,6 +15,10 @@ public class Swapna {
 		System.out.println("Print value of f");
 		float f=obj.nextFloat();
 		System.out.println("value of f "+f);
+		
+		
+		
+		
 	}
 
 }
