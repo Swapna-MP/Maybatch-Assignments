@@ -30,6 +30,7 @@ public class Assignment2 {
 		int sum1result=Arthematic.sum1(subresult, x4);
 		int mulresult=Arthematic.mul(sum1result,x5);
 		Arthematic.div(mulresult,x6);
+		
 	}
 	
 }

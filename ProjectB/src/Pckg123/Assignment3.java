@@ -31,6 +31,7 @@ public class Assignment3 {
 		int sub2result = Arthematic.sub2(subresult,x5);
 		Arthematic.div(sub2result,x6);
 		
+		
 				
 	}
 
