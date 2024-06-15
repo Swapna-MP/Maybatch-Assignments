@@ -19,7 +19,7 @@ public class Assignment2 {
 		System.out.println("Print value of x5");
 		int x5=obj.nextInt();
 		System.out.println("Print value of x6");
-		int x6=obj.nextInt();
+		int x6 =obj.nextInt();
 		
 		//solve the below expression ((((x1+x2)-x3)+x4)*x5)/x6)
 		
